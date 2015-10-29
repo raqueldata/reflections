@@ -1,1 +1,25 @@
-When would you want to create a remote repository 
+When would you want to create a remote repository rather than save everything in your local computer?
+
+Because sometimes you need to share the files across different people or work on your projects in different machines.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+This goes back to the question of automatic vs manual commit. It gives you more freedom to act on the changes you have made to your files. Also, it is a matter of how much you want to share. Maybe you are working on a project that you don’t think it is quite ready yet to let other people make changes to it.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+FORK
+A fork is a copy made from a github repository to another github repository. It gives credit to the original author of those files. It is useful if you want to use an already structured and live project another person has been working on and make your own changes.
+CLONE
+A clone is used to copy two repositories to start working on them. This can be useful if several people are working in the same project.
+BRANCH
+A branch is useful if you want to experiment with your ongoing project without affecting the master branch. 
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+so that changes that are incorporated locally are done on the last known state and to be able to work on the project without internet connection. Also, it helps that you don’t have two different versions of the file and have conflicts when merging.
+
+
+
+
