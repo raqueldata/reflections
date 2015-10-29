@@ -31,3 +31,4 @@ What are the pros and cons of Gitâ€™s automatic merging vs. always doing me
 manually?
 
 if there are a lot of changes, this can take a lot of time. 
+
