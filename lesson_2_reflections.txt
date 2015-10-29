@@ -11,13 +11,23 @@ staging area has the files that I am going to commit to. The working directory h
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+add the files I want to commit there every so often, I don’t have to do it all the time.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When I want to experiment with my original file without fear of messing anything up.
+
 How do the diagrams help you visualize the branch structure?
+
+They help keeping track of what commits are in each branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+A new different file that contains a merged file that includes all the changes made in both files.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+if there are a lot of changes, this can take a lot of time. 
