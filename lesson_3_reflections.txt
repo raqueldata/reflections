@@ -20,6 +20,7 @@ A branch is useful if you want to experiment with your ongoing project without a
 What is the benefit of having a copy of the last known state of the remote stored locally?
 so that changes that are incorporated locally are done on the last known state and to be able to work on the project without internet connection. Also, it helps that you don’t have two different versions of the file and have conflicts when merging.
 
-
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Sharing files manually everytime someone wants to work in something. We would probably send a lot of emails or work in a dropbox. The problem is that if we want to make changes we would have a lot of files that are named similarly. That would just create confusion.
 
 
