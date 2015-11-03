@@ -23,4 +23,5 @@ so that changes that are incorporated locally are done on the last known state a
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Sharing files manually everytime someone wants to work in something. We would probably send a lot of emails or work in a dropbox. The problem is that if we want to make changes we would have a lot of files that are named similarly. That would just create confusion.
 
-
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If master is a working version of a project, then making changes in a separate branch is a way of creating a different but similar working version of a project.
